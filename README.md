@@ -26,27 +26,27 @@ cogs
 
 total_sale
 
-🧹 Data Cleaning & Validation
+--- 🧹 Data Cleaning & Validation----
 
-Checked total number of records
+1.Checked total number of records
 
-Identified unique customers
+2.Identified unique customers
 
-Detected NULL values across all columns
+3.Detected NULL values across all columns
 
-Removed rows containing NULL values to ensure data quality
+4.Removed rows containing NULL values to ensure data quality
 
 🔍 Data Exploration
 
-Total number of sales transactions
+1.Total number of sales transactions
 
-Total number of unique customers
+2.Total number of unique customers
 
-Total number of product categories
+3.Total number of product categories
 
-📊 Business Problems & SQL Analysis
+---- 📊 Business Problems & SQL Analysis---
 
--- The following real-world business questions were solved using SQL:
+- The following real-world business questions were solved using SQL:
 
 1.Retrieve all sales made on a specific date
 
@@ -112,3 +112,5 @@ GitHub for version control
 
 ⭐ This project helped me build a strong foundation in SQL for Data Analyst roles.
 Feel free to explore, fork, or suggest improvements!
+
+linkdin Profile link -  [https://www.linkedin.com/in/sabir-shaikh-64163036a]
